@@ -33,9 +33,9 @@ namespace anti_quest
 		    {
 			    Instance.Patch(TargetMethod, Before, After);
 		    }
-		    catch (System.Exception e)
+		    catch (System.Exception qq)
 		    {
-			    MelonLogger.Error($"Failed to Patch {TargetMethod.Name} \n{e}");
+			    MelonLogger.Error($"Failed to Patch {TargetMethod.Name} \n{qq}");
 		    }
 	    }
 
