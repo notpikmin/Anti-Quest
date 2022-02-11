@@ -15,6 +15,6 @@ using MelonLoader;
 [assembly: Guid("13b85d59-ca85-44c8-8e3c-4d180de87538")]
 [assembly: AssemblyVersion("1.0.0")]
 [assembly: AssemblyFileVersion("1.0.0")]
-[assembly: MelonInfo(typeof(anti_quest.Main), "Anti Quest", "1.0.0", "Decider", "https://www.decider.wtf")]
+[assembly: MelonInfo(typeof(anti_quest.Main), "Anti Quest", "1.0.0", "Decider", "https://github.com/xDecider")]
 [assembly: MelonColor(ConsoleColor.DarkYellow)]
 [assembly: MelonGame("VRChat", "VRChat")]
