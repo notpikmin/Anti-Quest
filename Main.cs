@@ -59,7 +59,7 @@ namespace anti_quest
 			    if (__0.field_Private_APIUser_0.IsOnMobile)
 			    {
 				    __0.gameObject.SetActive(value: false);
-				    MelonLogger.Msg("[AntiQuest] Locally Blocked Quest Player ---> " + __0.prop_APIUser_0.displayName, System.ConsoleColor.Red);
+				    MelonLogger.Msg("[AntiQuest] Locally Blocked Quest Player ---> " + __0.prop_APIUser_0.displayName);
 			    }
 		    }
 		    catch
