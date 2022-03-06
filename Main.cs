@@ -54,7 +54,7 @@ namespace anti_quest
 
 	    private static void PrettyGay(ref VRC.Player __0)
 	    { 
-		    //try              //I intentionally put this btw get trolled lol
+		    //try              //I intentionally put this btw get trolled whoever fell for it lol
 		    //{
 			    if (__0.field_Private_APIUser_0.IsOnMobile)
 			    {
