@@ -9,14 +9,10 @@ namespace anti_quest
 
 	    public override void OnApplicationStart()
 	    {
-		    try
-		    {
+		   
 			    InitPatch();
 			    MelonLogger.Msg("[Anti Quest] Loaded Anti-Quest Mod, Enjoy! (https://github.com/xDecider)");
-		    }
-		    catch
-		    {
-		    }
+		   
 	    }
 	    
 	    
